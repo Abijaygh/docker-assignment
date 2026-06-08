@@ -1,0 +1,2 @@
+flask==3.0.0 # the software to the app needs to run and the specific version to run it
+redis==5.0.1 # connects the app to the redis counter
